@@ -30,7 +30,7 @@
 **Clone Repository**
 
 ```bash
-git clone https://github.com/musyahya/laravel8_latihan_quiz.git
+git clone https://github.com/Havid404/QuizSmk
 ```
 
 **Download zip**
@@ -94,4 +94,3 @@ Jangan ragu untuk memeriksa halaman masalah jika Anda ingin berkontribusi. **Ber
 
 ## License
 
-- Copyright © 2021 Musyahya.
